@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vqvk6dgEtDUnbV5P08cPcjVHmheQwPqlQ5eG3DFB3w98zI4m95FRBcm9bQJeiW7vL8DbW9ss/hE+M0+l/4pXXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MTU\\OneDrive - Hochiminh City University of Education\\Desktop\\Net\\Commom\\Commom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MTU\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MTU\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

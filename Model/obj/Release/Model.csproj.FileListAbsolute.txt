@@ -1,0 +1,15 @@
+C:\Users\VU HAI\Documents\Net\Model\bin\Release\Model.dll.config
+C:\Users\VU HAI\Documents\Net\Model\bin\Release\Model.dll
+C:\Users\VU HAI\Documents\Net\Model\bin\Release\Model.pdb
+C:\Users\VU HAI\Documents\Net\Model\bin\Release\EntityFramework.dll
+C:\Users\VU HAI\Documents\Net\Model\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\VU HAI\Documents\Net\Model\bin\Release\PagedList.dll
+C:\Users\VU HAI\Documents\Net\Model\bin\Release\PagedList.Mvc.dll
+C:\Users\VU HAI\Documents\Net\Model\bin\Release\EntityFramework.xml
+C:\Users\VU HAI\Documents\Net\Model\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\VU HAI\Documents\Net\Model\bin\Release\PagedList.xml
+C:\Users\VU HAI\Documents\Net\Model\bin\Release\PagedList.Mvc.xml
+C:\Users\VU HAI\Documents\Net\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+C:\Users\VU HAI\Documents\Net\Model\obj\Release\Model.csproj.CopyComplete
+C:\Users\VU HAI\Documents\Net\Model\obj\Release\Model.dll
+C:\Users\VU HAI\Documents\Net\Model\obj\Release\Model.pdb

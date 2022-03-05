@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "818cfed3-1a5b-4c2b-ae98-114721a64ce7": {
+      "ProjectGuid": "818cfed3-1a5b-4c2b-ae98-114721a64ce7",
+      "DisplayName": "NetCuoiKy",
+      "ColorIndex": 0
+    },
+    "7f2dc1c1-2f6e-461e-b317-a064e9b77837": {
+      "ProjectGuid": "7f2dc1c1-2f6e-461e-b317-a064e9b77837",
+      "DisplayName": "Common",
+      "ColorIndex": 1
+    },
+    "8a7c3f85-76b9-4d45-86d5-fd45fa306f15": {
+      "ProjectGuid": "8a7c3f85-76b9-4d45-86d5-fd45fa306f15",
+      "DisplayName": "Model",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

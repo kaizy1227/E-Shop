@@ -1,0 +1,80 @@
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\Model.dll.config
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\Model.dll
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\Model.pdb
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\EntityFramework.dll
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\EntityFramework.xml
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\obj\Debug\Model.dll
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\obj\Debug\Model.pdb
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\PagedList.dll
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\PagedList.xml
+C:\Users\VU HAI\source\repos\NetCuoiKy\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Model\bin\Debug\Model.dll.config
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Model\bin\Debug\Model.dll
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Model\bin\Debug\Model.pdb
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Model\bin\Debug\EntityFramework.dll
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Model\bin\Debug\PagedList.dll
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Model\bin\Debug\EntityFramework.xml
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Model\bin\Debug\PagedList.xml
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Model\obj\Debug\Model.dll
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Model\obj\Debug\Model.pdb
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\ecommerce\New folder\Net\Model\bin\Debug\Model.dll.config
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\ecommerce\New folder\Net\Model\bin\Debug\Model.dll
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\ecommerce\New folder\Net\Model\bin\Debug\Model.pdb
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\ecommerce\New folder\Net\Model\bin\Debug\EntityFramework.dll
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\ecommerce\New folder\Net\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\ecommerce\New folder\Net\Model\bin\Debug\PagedList.dll
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\ecommerce\New folder\Net\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\ecommerce\New folder\Net\Model\bin\Debug\EntityFramework.xml
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\ecommerce\New folder\Net\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\ecommerce\New folder\Net\Model\bin\Debug\PagedList.xml
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\ecommerce\New folder\Net\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\ecommerce\New folder\Net\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\ecommerce\New folder\Net\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\ecommerce\New folder\Net\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\ecommerce\New folder\Net\Model\obj\Debug\Model.dll
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\ecommerce\New folder\Net\Model\obj\Debug\Model.pdb
+C:\Users\VU HAI\Documents\Net\Model\bin\Debug\Model.dll.config
+C:\Users\VU HAI\Documents\Net\Model\bin\Debug\Model.dll
+C:\Users\VU HAI\Documents\Net\Model\bin\Debug\Model.pdb
+C:\Users\VU HAI\Documents\Net\Model\bin\Debug\EntityFramework.dll
+C:\Users\VU HAI\Documents\Net\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VU HAI\Documents\Net\Model\bin\Debug\PagedList.dll
+C:\Users\VU HAI\Documents\Net\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\VU HAI\Documents\Net\Model\bin\Debug\EntityFramework.xml
+C:\Users\VU HAI\Documents\Net\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VU HAI\Documents\Net\Model\bin\Debug\PagedList.xml
+C:\Users\VU HAI\Documents\Net\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\VU HAI\Documents\Net\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\VU HAI\Documents\Net\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\VU HAI\Documents\Net\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\VU HAI\Documents\Net\Model\obj\Debug\Model.dll
+C:\Users\VU HAI\Documents\Net\Model\obj\Debug\Model.pdb
+C:\Users\kaizy\Downloads\Net\Net\Model\bin\Debug\Model.dll.config
+C:\Users\kaizy\Downloads\Net\Net\Model\bin\Debug\Model.dll
+C:\Users\kaizy\Downloads\Net\Net\Model\bin\Debug\Model.pdb
+C:\Users\kaizy\Downloads\Net\Net\Model\bin\Debug\EntityFramework.dll
+C:\Users\kaizy\Downloads\Net\Net\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kaizy\Downloads\Net\Net\Model\bin\Debug\PagedList.dll
+C:\Users\kaizy\Downloads\Net\Net\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\kaizy\Downloads\Net\Net\Model\bin\Debug\EntityFramework.xml
+C:\Users\kaizy\Downloads\Net\Net\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kaizy\Downloads\Net\Net\Model\bin\Debug\PagedList.xml
+C:\Users\kaizy\Downloads\Net\Net\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\kaizy\Downloads\Net\Net\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\kaizy\Downloads\Net\Net\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kaizy\Downloads\Net\Net\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\kaizy\Downloads\Net\Net\Model\obj\Debug\Model.dll
+C:\Users\kaizy\Downloads\Net\Net\Model\obj\Debug\Model.pdb

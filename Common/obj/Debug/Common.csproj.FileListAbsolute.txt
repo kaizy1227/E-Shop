@@ -1,0 +1,17 @@
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Common\bin\Debug\Common.dll
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Common\bin\Debug\Common.pdb
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Common\obj\Debug\Common.dll
+C:\Users\MTU\OneDrive - Hochiminh City University of Education\Desktop\Net\Common\obj\Debug\Common.pdb
+C:\Users\VU HAI\Documents\Net\Common\bin\Debug\Common.dll
+C:\Users\VU HAI\Documents\Net\Common\bin\Debug\Common.pdb
+C:\Users\VU HAI\Documents\Net\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\VU HAI\Documents\Net\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\VU HAI\Documents\Net\Common\obj\Debug\Common.dll
+C:\Users\VU HAI\Documents\Net\Common\obj\Debug\Common.pdb
+C:\Users\kaizy\Downloads\Net\Net\Common\bin\Debug\Common.dll
+C:\Users\kaizy\Downloads\Net\Net\Common\bin\Debug\Common.pdb
+C:\Users\kaizy\Downloads\Net\Net\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\kaizy\Downloads\Net\Net\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\kaizy\Downloads\Net\Net\Common\obj\Debug\Common.dll
+C:\Users\kaizy\Downloads\Net\Net\Common\obj\Debug\Common.pdb
