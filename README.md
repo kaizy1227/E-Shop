@@ -3,7 +3,7 @@ Video demo trang web bán hàng online:
 https://youtu.be/7Yevvb312nY
 
 Đường link web demo:
-http://onlineshop1.somee.com/
+http://onlineshop01.somee.com/
 
 -Tài khoản admin: admin/admin.
 -Tài khoản user: test01/123123.
