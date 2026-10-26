@@ -19,25 +19,15 @@
     <meta property="og:description" content="@Model.Description" />
 }
 
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v11.0&appId=1449621782097242&autoLogAppEvents=1" nonce="s8LOJyAZ"></script>
-
-
-
-
 <div class="small-container single-product">
     <div class="row">
         <div class="col-2">
-            <img src="@Model.Image" width="100%" id="@Model.ID" alt="@Model.Name">
+            <img src="@Model.Image" width="100%" id="@Model.ID" alt="@Model.Name" decoding="async">
         </div>
         <div class="col-2">
 
             <p>Trang chủ / @category.Name</p>
-            <div class="fb-share-button" data-href="@hostName@Context.Request.Path" data-layout="button_count" data-size="small">
-                <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=@hostName@Context.Request.Path&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">
-                    Chia sẻ
-                </a>
-            </div>
+            <a target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u=@System.Web.HttpUtility.UrlEncode(hostName + Context.Request.Path)" class="btn">Chia sẻ</a>
             <h1>@Model.Name</h1>
             <h4>@(Model.Price.HasValue? Model.Price.Value.ToString("N0"):"Liên hệ") vnđ</h4>
 
@@ -72,7 +62,7 @@
         {
             var url = "/chi-tiet/" + item.ID + "/" + item.MetaTilte;
             <div class="col-4">
-                <a href="@url"> <img src="@item.Image" alt="@item.Name"> </a>
+                <a href="@url"> <img src="@item.Image" alt="@item.Name" loading="lazy" decoding="async"> </a>
 
                 <h4>@item.Name</h4>
                 <div class="rating">
@@ -89,7 +79,7 @@
 
     @*<div class="row-2">
             <div class="col-4">
-                <img src="~/Areas/Client/images/product-5.jpg">
+                <img src="~/Areas/Client/images/product-5.jpg" alt="Sản phẩm thể thao" loading="lazy" decoding="async">
                 <h4>Red Printed T-Shirt</h4>
                 <div class="rating">
                     <i class="fa fa-star"></i>
@@ -101,7 +91,7 @@
                 <p>$50.00</p>
             </div>
             <div class="col-4">
-                <img src="~/Areas/Client/images/product-6.jpg">
+                <img src="~/Areas/Client/images/product-6.jpg" alt="Sản phẩm thể thao" loading="lazy" decoding="async">
                 <h4>Red Printed T-Shirt</h4>
                 <div class="rating">
                     <i class="fa fa-star"></i>
@@ -113,7 +103,7 @@
                 <p>$50.00</p>
             </div>
             <div class="col-4">
-                <img src="~/Areas/Client/images/product-7.jpg">
+                <img src="~/Areas/Client/images/product-7.jpg" alt="Sản phẩm thể thao" loading="lazy" decoding="async">
                 <h4>Red Printed T-Shirt</h4>
                 <div class="rating">
                     <i class="fa fa-star"></i>
@@ -125,7 +115,7 @@
                 <p>$50.00</p>
             </div>
             <div class="col-4">
-                <img src="~/Areas/Client/images/product-8.jpg">
+                <img src="~/Areas/Client/images/product-8.jpg" alt="Sản phẩm thể thao" loading="lazy" decoding="async">
                 <h4>Red Printed T-Shirt</h4>
                 <div class="rating">
                     <i class="fa fa-star"></i>
@@ -139,7 +129,7 @@
         </div>
         <div class="row">
             <div class="col-4">
-                <img src="~/Areas/Client/images/product-9.jpg">
+                <img src="~/Areas/Client/images/product-9.jpg" alt="Sản phẩm thể thao" loading="lazy" decoding="async">
                 <h4>Red Printed T-Shirt</h4>
                 <div class="rating">
                     <i class="fa fa-star"></i>
@@ -151,7 +141,7 @@
                 <p>$50.00</p>
             </div>
             <div class="col-4">
-                <img src="~/Areas/Client/images/product-10.jpg">
+                <img src="~/Areas/Client/images/product-10.jpg" alt="Sản phẩm thể thao" loading="lazy" decoding="async">
                 <h4>Red Printed T-Shirt</h4>
                 <div class="rating">
                     <i class="fa fa-star"></i>
@@ -163,7 +153,7 @@
                 <p>$50.00</p>
             </div>
             <div class="col-4">
-                <img src="~/Areas/Client/images/product-11.jpg">
+                <img src="~/Areas/Client/images/product-11.jpg" alt="Sản phẩm thể thao" loading="lazy" decoding="async">
                 <h4>Red Printed T-Shirt</h4>
                 <div class="rating">
                     <i class="fa fa-star"></i>
@@ -175,7 +165,7 @@
                 <p>$50.00</p>
             </div>
             <div class="col-4">
-                <img src="~/Areas/Client/images/product-12.jpg">
+                <img src="~/Areas/Client/images/product-12.jpg" alt="Sản phẩm thể thao" loading="lazy" decoding="async">
                 <h4>Red Printed T-Shirt</h4>
                 <div class="rating">
                     <i class="fa fa-star"></i>

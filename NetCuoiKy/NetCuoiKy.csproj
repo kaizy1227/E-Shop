@@ -203,6 +203,7 @@
     <Content Include="Areas\Client\images\gallery-3.jpg" />
     <Content Include="Areas\Client\images\gallery-4.jpg" />
     <Content Include="Areas\Client\images\image1.png" />
+    <Content Include="Areas\Client\images\image1-optimized.jpg" />
     <Content Include="Areas\Client\images\img-credit.txt" />
     <Content Include="Areas\Client\images\logo-coca-cola.png" />
     <Content Include="Areas\Client\images\logo-godrej.png" />

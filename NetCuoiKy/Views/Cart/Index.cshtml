@@ -2,7 +2,7 @@
 @{ ViewBag.Title = "Index";
                 Layout = "~/Views/Shared/_Layout.cshtml"; }
 @section jsFooter{
-    <script src="/Assets/js/controller/cartController.js"></script>
+    <script defer src="/Assets/js/controller/cartController.js"></script>
 }
 <div class="content">
     <div class="section group">
@@ -26,7 +26,7 @@
 <tr>
     <td>@item.Product.ID</td>
     <td>@item.Product.Name</td>
-    <td> <img src="@item.Product.Image " alt="@item.Product.Name" width="100"> </td>
+    <td> <img src="@item.Product.Image " alt="@item.Product.Name" width="100" loading="lazy" decoding="async"> </td>
     <td> <input type="text" class="txtQuantity" data-id="@item.Product.ID" value="@item.Quantity" /> </td>
     <td>@item.Product.Price.GetValueOrDefault(0).ToString("N0")</td>
     <td>@((item.Product.Price.GetValueOrDefault(0) * item.Quantity).ToString("N0"))</td>
