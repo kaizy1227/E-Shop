@@ -7,6 +7,7 @@ using MailChimp;
 using MailChimp.Helper;
 using MailChimp.Lists;
 using NetCuoiKy.Models;
+using System.Configuration;
 
 namespace NetCuoiKy.Controllers
 {
@@ -21,7 +22,7 @@ namespace NetCuoiKy.Controllers
         public ActionResult AddSubcribeUser(FormCollection frc)
         {
             string userEmail = frc["subcribe"];
-            MailChimpManager mc = new MailChimpManager("ce3c1cd09bacdd8da0a4ee4b03636641-us6");
+            MailChimpManager mc = new MailChimpManager(ConfigurationManager.AppSettings["MailchimpApiKey"]);
 
             //	Create the email parameter
             EmailParameter email = new EmailParameter()

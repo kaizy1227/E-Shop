@@ -1,2 +1,5 @@
 # Local deployment artifacts may contain hosting credentials.
+.vs/
+**/bin/
+**/obj/
 deploy/
